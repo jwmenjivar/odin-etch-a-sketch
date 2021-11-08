@@ -2,6 +2,14 @@
     background-color: yellow;
 } */
 
-.colored{
+ .red{
+    background-color: red;
+} 
+
+.blue{
+    background-color: violet;
+}
+
+.yellow{
     background-color: yellow;
 }
