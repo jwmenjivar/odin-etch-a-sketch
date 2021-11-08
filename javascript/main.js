@@ -39,3 +39,4 @@ function erase(){
 
 let btn = document.querySelector('button');
 btn.addEventListener('click', erase)
+

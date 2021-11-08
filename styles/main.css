@@ -13,3 +13,18 @@
 .yellow{
     background-color: yellow;
 }
+
+div{background-color: white;}
+
+body{
+    background-color: rgb(56, 52, 52);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+h1{color: greenyellow;}
+
+p{
+    color: indianred;
+}
